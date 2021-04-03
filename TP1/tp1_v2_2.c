@@ -96,6 +96,6 @@ void processus(int process){
 
 int main(int argc, char * argv[]){
     int var = atoi(argv[argc-1]);
-    processus(var);;
+    processus(var);
     return 0;
 }
